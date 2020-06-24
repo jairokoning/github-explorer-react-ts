@@ -16,15 +16,25 @@ GoStack Bootcamp 11
 
 ## :dart: Features
 :heavy_check_mark: Creating React app with TypeScript template
+
 :heavy_check_mark: Structure and patterns
+
 :heavy_check_mark: Configure EditorConfig
+
 :heavy_check_mark: Configure ESLint
+
 :heavy_check_mark: Configure Prettier
+
 :heavy_check_mark: Create/configure routes
+
 :heavy_check_mark: Styled components
+
 :heavy_check_mark: Consume data from a Rest API with axios
+
 :heavy_check_mark: Dealing with errors
+
 :heavy_check_mark: useState / useEffect
+
 
 ## :triangular_flag_on_post: Getting started
 
